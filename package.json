@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "iframe": "0.0.2",
-    "browser-request": "0.2.0",
+    "browser-request": "git://github.com/maxogden/browser-request.git",
     "inherits": "1.0.0",
     "detective": "~2.1.2",
     "browser-module-cache": "0.1.1"
